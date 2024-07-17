@@ -1,0 +1,14 @@
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\bin\Debug\net8.0\FnPassByValuePassByRefOutKeyword.exe
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\bin\Debug\net8.0\FnPassByValuePassByRefOutKeyword.deps.json
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\bin\Debug\net8.0\FnPassByValuePassByRefOutKeyword.runtimeconfig.json
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\bin\Debug\net8.0\FnPassByValuePassByRefOutKeyword.dll
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\bin\Debug\net8.0\FnPassByValuePassByRefOutKeyword.pdb
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\FnPassByValuePassByRefOutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\FnPassByValuePassByRefOutKeyword.AssemblyInfoInputs.cache
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\FnPassByValuePassByRefOutKeyword.AssemblyInfo.cs
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\FnPassByValuePassByRefOutKeyword.csproj.CoreCompileInputs.cache
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\FnPassByValuePassByRefOutKeyword.dll
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\refint\FnPassByValuePassByRefOutKeyword.dll
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\FnPassByValuePassByRefOutKeyword.pdb
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\FnPassByValuePassByRefOutKeyword.genruntimeconfig.cache
+H:\Codes\C#\Revision\FnPassByValuePassByRefOutKeyword\FnPassByValuePassByRefOutKeyword\obj\Debug\net8.0\ref\FnPassByValuePassByRefOutKeyword.dll
